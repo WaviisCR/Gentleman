@@ -107,5 +107,8 @@ footer{
 }
 .social-brd{
     border-radius: 100%;
+    width: 30px;
     border-style: dashed;
+    border:1px silver;
+    color: silver;
 }
